@@ -1,3 +1,4 @@
+mod leetcode;
 mod neetcode150;
 
 #[cfg(test)]
