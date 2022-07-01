@@ -1,3 +1,4 @@
+pub mod data_structures;
 mod leetcode;
 mod neetcode150;
 
